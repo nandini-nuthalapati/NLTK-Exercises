@@ -1,0 +1,3 @@
+love 333333
+hate 1233
+crime 65

@@ -1,0 +1,350 @@
+
+
+
+
+
+
+
+
+
+The Rembrandts - I'll Be There For You (Theme From Friends) Lyrics | AZLyrics.com
+
+
+
+
+
+ArtistName = "The Rembrandts";
+SongName = "I'll Be There For You (Theme From Friends)";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+
+
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6772046" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+
+
+
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+#
+
+
+
+
+
+
+
+
+ Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"I'll Be There For You (Theme From Friends)" lyrics
+
+The Rembrandts Lyrics
+
+
+
+
+"I'll Be There For You (Theme From Friends)"
+
+
+
+So no one told you life was gonna be this way
+Your job's a joke, you're broke, your love life's D.O.A.
+It's like you're always stuck in second gear
+When it hasn't been your day, your week, your month, or even your year, but
+
+I'll be there for you
+(When the rain starts to pour)
+I'll be there for you
+(Like I've been there before)
+I'll be there for you
+('Cause you're there for me too)
+
+You're still in bed at ten and work began at eight
+You've burned your breakfast, so far things are going great
+Your mother warned you there'd be days like these
+But she didn't tell you when the world has brought you down to your knees that
+
+I'll be there for you
+(When the rain starts to pour)
+I'll be there for you
+(Like I've been there before)
+I'll be there for you
+('Cause you're there for me too)
+
+No one could ever know me
+No one could ever see me
+Seems you're the only one who knows what it's like to be me
+Someone to face the day with, make it through all the rest with
+Someone I'll always laugh with
+Even at my worst, I'm best with you, yeah!
+
+It's like you're always stuck in second gear
+When it hasn't been your day, your week, your month, or even your year
+
+I'll be there for you
+(When the rain starts to pour)
+I'll be there for you
+(Like I've been there before)
+I'll be there for you
+('Cause you're there for me too)
+
+I'll be there for you
+I'll be there for you
+I'll be there for you
+('Cause you're there for me too)
+
+
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="//adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_13208539/su_0/rs_0/tr_3vUCAFHdm8C1BtDnS0ejmJt3tMuzLN1n_V5irhobbgxapHlGojzzjCZgFOjGeWwG9h3voQabePdZmgj-u4P2M0nrmuE7ry7_rxIcstqh7f1vSYvHBTCgYiOPrSBy_raCQtCD4GQAOt0FEUS7O1OO5Uu4weBimmJRnoyKJ69DDpB7Qrz3tfsXNeLcJRDtybjfQEvseMpmBf_VRwfsj8gWVjO8I66hpNTfCnSjGl6cCCVOLMPDPcWSA065TMlHtnETAsOBoH9JdoDxqu-vfZdN6ibf3fYMBhMdGEmbEj1pLuk8lhRjP_YrlcbnhPUngRIBC82QBLtEC208NWr2fjDzqTCzqsqZEUJ2YZWL6gH-0QSKy34lCik3G-zW0AyVQnvYMPZHVbXuvFB4QecyZCS54A8S5-CKRdc80ODFDy5aRtSBSOrUoULRDp8VQhZXxNxLaLMpT-j13cKcGR0405sbGi9iaRm_tt5XqvlwsDAzZq0/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Submit Corrections
+
+Thanks to Aayush Singhal, Mija for correcting these lyrics.
+
+
+
+
+
+Writer(s): ALLEE WILLIS, DAVID CRANE, MARTA KAUFFMAN, PHIL SOLEM, DANNY WILDE, MICHAEL JAY SKLOFF
+
+
+
+
+"I'll Be There for You" is a song recorded by duo "The Rembrandts" as the theme song to the sitcom "Friends". The song was also released as the first single from the third studio album.
+
+
+The original theme to the sitcom, which is under one minute long, was re-recorded as a three-minute song. After Nashville program director Charlie Quinn looped the original short version into a full-length track and broadcast it on radio, it became so popular that they had to re-record it. According to Phil Sōlem, "Our record label said we had to finish the song and record it. There was no way to get out of it."
+
+
+
+AZLyrics
+R
+The Rembrandts Lyrics
+
+
+
+album: "LP" (1995)
+End Of The Beginning
+Easy To Forget
+My Own Way
+Don't Hide Your Love
+Drowning In Your Tears
+This House Is Not A Home
+April 29
+Lovin' Me Insane
+There Goes Lucy
+As Long As I Am Breathing
+Call Me
+Comin' Home
+What Will It Take
+The Other Side Of Night
+I'll Be There For You (Theme From Friends)
+
+
+
+
+
+
+ Search
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+Submit Lyrics
+Soundtracks
+Facebook
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advertise Here
+Privacy Policy
+DMCA Policy
+
+
+
+
+
+Powered by 
+
+             The Rembrandts lyrics are property and copyright of their owners. "I'll Be There For You (Theme From Friends)" lyrics provided for educational purposes and personal use only.
+
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+
+
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "pop";
+
+
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+
+window.jQuery || document.write('<script src="//www.azlyrics.com/local/jquery.min.js"><\/script>')
+
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="//www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    
+
+
+
